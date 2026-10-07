@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "matrix",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "matrix72.play.hosting",
-    "port": 0,
+    "ip": "solocloud.host",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -17,7 +17,7 @@
     "y": 100,
     "z": 0
   },
-  "util
+  "utils": {
     "auto-auth": {
       "enabled": true,
       "password": "SoloPlayz"
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
