@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "stokesmp.play.hosting",
+    "ip": "stoke.play.hosting",
     "port": 0,
     "version": "1.20.1",
     "try-creative": false
